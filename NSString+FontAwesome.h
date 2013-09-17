@@ -24,7 +24,7 @@
 
 #import <Foundation/Foundation.h>
 
-static NSString *const kFontAwesomeFamilyName = @"FontAwesome";
+static NSString *const kFontAwesomeFamilyName = @"FontAwesomeUVHybrid";
 
 typedef NS_ENUM(NSInteger, FAIcon) {
     FAIconGlass = 0,
